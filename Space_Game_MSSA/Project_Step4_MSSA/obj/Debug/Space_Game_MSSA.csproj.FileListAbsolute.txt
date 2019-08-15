@@ -1,0 +1,7 @@
+C:\Users\Jon Quick\source\repos\Project_Step4_MSSA\bin\Debug\Project_Step4_MSSA.exe.config
+C:\Users\Jon Quick\source\repos\Project_Step4_MSSA\bin\Debug\Project_Step4_MSSA.exe
+C:\Users\Jon Quick\source\repos\Project_Step4_MSSA\bin\Debug\Project_Step4_MSSA.pdb
+C:\Users\Jon Quick\source\repos\Project_Step4_MSSA\obj\Debug\Space_Game_MSSA.csproj.CoreCompileInputs.cache
+C:\Users\Jon Quick\source\repos\Project_Step4_MSSA\obj\Debug\Project_Step4_MSSA.exe
+C:\Users\Jon Quick\source\repos\Project_Step4_MSSA\obj\Debug\Project_Step4_MSSA.pdb
+C:\Users\Jon Quick\source\repos\Project_Step4_MSSA\obj\Debug\Space_Game_MSSA.csprojAssemblyReference.cache
